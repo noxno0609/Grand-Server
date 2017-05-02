@@ -1,0 +1,35 @@
+//Global TextDraws: 
+
+
+new Text:TDEditor_TD[2];
+
+TDEditor_TD[0] = TextDrawCreate(608.437072, 132.833282, "Bank$_100,000,000");
+TextDrawLetterSize(TDEditor_TD[0], 0.400000, 1.600000);
+TextDrawAlignment(TDEditor_TD[0], 3);
+TextDrawColor(TDEditor_TD[0], -2139094785);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+TextDrawSetOutline(TDEditor_TD[0], 1);
+TextDrawBackgroundColor(TDEditor_TD[0], 255);
+TextDrawFont(TDEditor_TD[0], 1);
+TextDrawSetProportional(TDEditor_TD[0], 1);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+
+TDEditor_TD[1] = TextDrawCreate(328.500000, 183.155548, "Loading...~n~Dang_lay_thong_tin_tai_khoan...");
+TextDrawLetterSize(TDEditor_TD[1], 0.410500, 2.315554);
+TextDrawTextSize(TDEditor_TD[1], 0.000000, 306.000000);
+TextDrawAlignment(TDEditor_TD[1], 2);
+TextDrawColor(TDEditor_TD[1], -1);
+TextDrawUseBox(TDEditor_TD[1], 1);
+TextDrawBoxColor(TDEditor_TD[1], 102);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+TextDrawSetOutline(TDEditor_TD[1], 1);
+TextDrawBackgroundColor(TDEditor_TD[1], 255);
+TextDrawFont(TDEditor_TD[1], 2);
+TextDrawSetProportional(TDEditor_TD[1], 1);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+
+
+
+
+//Total textdraws exported: 2 (2 global textdraws / 0 player textdraws) ~ 23/2/2017 ~ 19:8:58
+TDEditor V1.17 BY ADRI1
